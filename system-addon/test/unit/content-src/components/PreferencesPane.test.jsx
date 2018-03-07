@@ -52,7 +52,7 @@ describe("<PreferencesPane>", () => {
       shouldHidePref: false,
       enabled: true,
       pref: {
-        titleString: {id: "settings_pane_topsites_header"},
+        titleString: {id: "section_info_option"},
         nestedPrefs: [
           {
             name: "nestedPref1",
